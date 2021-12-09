@@ -4,4 +4,4 @@
 
 
 ### languages and Tools
-![flutter](https://img.shields.io/static/v1?label=message=<Flutter>&color=<COLOR>?style=for-the-badge&logo=appveyor)
+![flutter](https://img.shields.io/static/v1?label=Strong&color=<COLOR>?style=for-the-badge&logo=appveyor)
