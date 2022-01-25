@@ -4,7 +4,7 @@
 
 🌝 My avatars!
 
-📱<a href="tel:+380636870793" target="_blank">+380992353324</a>
+📱<a href="tel:+380636870793" target="_blank">+380636870793</a>
 
 ✍<a href="yanukhous1710@gmail.com" target="_blank">yanukhous1710@gmail.com</a>
 
